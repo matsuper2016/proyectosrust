@@ -1,0 +1,10 @@
+[package]
+name = "rmachine2"
+version = "0.1.0"
+authors = ["MatsuperCeron <matiasjceron@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+rusty-machine="0.5.4"
+rand="0.3.0"
